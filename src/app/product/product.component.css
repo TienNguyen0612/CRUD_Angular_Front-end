@@ -1,0 +1,16 @@
+.table-hover {
+  width: 800px;
+  text-align: center;
+}
+
+#detail, #center, h1 {
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+.fa-solid {
+  color: red;
+}
